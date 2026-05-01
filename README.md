@@ -55,19 +55,6 @@ ankita = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
----
-
-### 📌 Featured Projects
-
-| 🚀 Project | 💡 Description | 🔧 Stack |
-|---|---|---|
-| [🤖 resume-screening-app](https://github.com/ankitadubey323/resume-screening-app) | AI-powered resume screening tool | Python, Jupyter |
-| [🧪 machine-learning-pratice](https://github.com/ankitadubey323/machine-learning-pratice) | ML experiments & notebooks | Python, Jupyter |
-| [🛍️ commerce](https://github.com/ankitadubey323/commerce) | Full-stack e-commerce app | Next.js, TypeScript |
-| [🍔 food-store](https://github.com/ankitadubey323/food-store) | Food ordering web app | TypeScript |
-| [🧠 aipoweredbycoderewier](https://github.com/ankitadubey323/aipoweredbycoderewier) | AI-powered code reviewer | JavaScript |
-
 ---
 
 ### 📊 GitHub Stats
